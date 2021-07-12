@@ -1,8 +1,8 @@
-![DevResource](https://socialify.git.ci/Tejas1510/FTS-Task4-DevResource/image?description=1&font=KoHo&language=1&owner=1&pattern=Brick%20Wall&theme=Dark)
+![DevResource](https://socialify.git.ci/Tejas1510/KaroDilseVote/image?description=1&font=KoHo&language=1&owner=1&pattern=Brick%20Wall&theme=Dark)
 
 ## Demonstration
 
-### Watch the complete demonstration of the app I have created here : [Project Demonstration Video](https://drive.google.com/file/d/1hUXlL7p7PvjTSS2-_mMnbCyBjWSYY7_c/view?usp=sharing)
+### Watch the complete demonstration of the app I have created here : [Project Demonstration Video](https://drive.google.com/file/d/1BBigJg3odpUBUUsVOCyVodSSxecfjvMJ/view?usp=sharing)
 
 ## 📌 Introduction
 
